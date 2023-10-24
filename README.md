@@ -6,3 +6,8 @@ Key Objectives:
 - Investigate the geographical distribution of customers and sales trends by country.
 - Examine sales data over time to uncover patterns and seasonal variations.
 - Gain insights into customer demographics and their impact on purchasing habits.
+
+Technologies and Tools:
+- SQL for data querying and analysis.
+- Power BI for creating interactive data visualizations and a dashboard.
+- GitHub for version control and project sharing.
