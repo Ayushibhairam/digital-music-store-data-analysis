@@ -1,4 +1,4 @@
-# digital-music-store-data-analysis
+# Digital-music-store-data-analysis
 Welcome to the "Digital Music Store Data Analysis" project! This project offers a comprehensive exploration of a digital music store's database, providing insights into customer purchasing behavior and music sales trends across various countries. The database contains rich data, including artist profiles, albums, music genres, customer demographics, and invoice details.
 
 Key Objectives:
