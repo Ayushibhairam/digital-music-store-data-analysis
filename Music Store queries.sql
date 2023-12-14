@@ -119,7 +119,7 @@ ORDER BY miliseconds DESC;
 
 
 
-/* Q1: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent */
+/* Q1: Find how much amount spent by each customer on the best selling artist? Write a query to return customer name, artist name and total spent */
 
 /* Steps to Solve: First, find which artist has earned the most according to the InvoiceLines. Now use this artist to find 
 which customer spent the most on this artist. For this query, you will need to use the Invoice, InvoiceLine, Track, Customer, 
